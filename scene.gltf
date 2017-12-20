@@ -519,28 +519,28 @@
   ],
   "images": [
     {
-      "uri": "textures/material_2_normal.png"
+      "uri": "material_2_normal.png"
     },
     {
-      "uri": "textures/material_2_diffuse.png"
+      "uri": "material_2_diffuse.png"
     },
     {
-      "uri": "textures/material_normal.png"
+      "uri": "material_normal.png"
     },
     {
-      "uri": "textures/material_diffuse.png"
+      "uri": "material_diffuse.png"
     },
     {
-      "uri": "textures/material_0_normal.png"
+      "uri": "material_0_normal.png"
     },
     {
-      "uri": "textures/material_0_diffuse.png"
+      "uri": "material_0_diffuse.png"
     },
     {
-      "uri": "textures/material_3_normal.png"
+      "uri": "material_3_normal.png"
     },
     {
-      "uri": "textures/material_3_diffuse.png"
+      "uri": "material_3_diffuse.png"
     }
   ],
   "materials": [
